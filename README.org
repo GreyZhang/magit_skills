@@ -3,4 +3,5 @@
 
 * 学习笔记
 - [[https://greyzhang.blog.csdn.net/article/details/108631050][390_magit使用初步-克隆一个仓库]]
+- [[https://greyzhang.blog.csdn.net/article/details/108631163][391_magit使用学习-提交一个新文件]]
 
