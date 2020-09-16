@@ -1,2 +1,6 @@
 * magit skills
 - 这是我自己修炼magit的学习记录，并不是一个具有明确导向的学习教程。观者可以参考，千万不要全部照搬以免被我带偏！
+
+* 学习笔记
+- [[https://greyzhang.blog.csdn.net/article/details/108631050][390_magit使用初步-克隆一个仓库]]
+
