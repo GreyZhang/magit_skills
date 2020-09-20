@@ -5,3 +5,4 @@
 - [[https://greyzhang.blog.csdn.net/article/details/108631050][390_magit使用初步-克隆一个仓库]]
 - [[https://greyzhang.blog.csdn.net/article/details/108631163][391_magit使用学习-提交一个新文件]]
 - [[https://greyzhang.blog.csdn.net/article/details/108631237][392_magit使用学习-push修改到源仓库]]
+- [[https://greyzhang.blog.csdn.net/article/details/108693759][400_magit进行文件差异比对]]
